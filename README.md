@@ -1,1 +1,1 @@
-# traditionalComputerVision
+# Visión Artificial Tradicional
